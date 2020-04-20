@@ -1,1 +1,1 @@
-DSA2
+This project develops a shared whiteboard which allows more than one user work on a canvas at the same time. With this software, different clients could work share the work that they have done on their own board. As drawers, they can draw lines or shapes. Also, they can add text box on the draw box.  The server will maintain its current state and manage the operations of all clients. In addition, there are some other special features, such as user chat, server backup.
